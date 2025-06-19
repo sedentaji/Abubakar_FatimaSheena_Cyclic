@@ -9,10 +9,10 @@
 - C++ compiler (g++, clang++, or Visual Studio)
 - Terminal/Command Prompt access
 
-# Compile DFS version
+### Compile DFS version
 g++ -o cyclic_dfs cyclic_dfs.cpp
 
-# Compile BFS version
+### Compile BFS version
 g++ -o cyclic_bfs cyclic_bfs.cpp
 
 ### Execution
